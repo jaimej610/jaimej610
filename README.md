@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendendo HTML,CSS E JS(node.js)
 - 💞️ Estou a procura da primeira oportunidade de estágio.
 - 📫 Como entrar em contato comigo : whatsapp:(21)95902-4502
-- 😄 Pronouns: ...
+- 😄 linkdin: https://www.linkedin.com/feed/
 - ⚡ Fun fact: ...
 
 <!---
